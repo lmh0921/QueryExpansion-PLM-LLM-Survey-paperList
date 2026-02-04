@@ -88,7 +88,7 @@ This repository collects papers related to **Query Expansion (QE)** for **Inform
 - **Personalized query expansion with contextual word embeddings** — Bassani, Elias, 2023 | ACM Transactions on Information Systems. [[Paper](https://doi.org/10.1145/3624988)]
 - **CEQE to SQET: A study of contextualized embeddings for query expansion** — Naseri, Shahrzad, 2022 | Information Retrieval Journal. [[Paper](https://doi.org/10.1007/s10791-022-09405-y)] [[Code](https://github.com/sherinaseri/ceqe-release)]
 - **Ceqe: Contextualized embeddings for query expansion** — Naseri, Shahrzad, 2021 | European conference on information retrieval. [[Paper](https://doi.org/10.1007/978-3-030-72113-8_31)] [[Code](https://github.com/sherinaseri/ceqe-release)]
-- **BERT-QE: Contextualized Query Expansion for Document Re-ranking** — Zheng, Zhi, 2020 | Findings of the Association for Computational Linguistics: EMNLP 2020. [[Paper](https://doi.org/10.18653/v1/2020.findings-emnlp.424) [[Code](https://github.com/zh-zheng/BERT-QE)]
+- **BERT-QE: Contextualized Query Expansion for Document Re-ranking** — Zheng, Zhi, 2020 | Findings of the Association for Computational Linguistics: EMNLP 2020. [[Paper](https://doi.org/10.18653/v1/2020.findings-emnlp.424)] [[Code](https://github.com/zh-zheng/BERT-QE)]
 
 ### Domain-specific QE: Code Search
 
