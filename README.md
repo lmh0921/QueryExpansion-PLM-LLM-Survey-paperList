@@ -73,6 +73,7 @@ This repository collects papers related to **Query Expansion (QE)** for **Inform
 ### Distillation & Alignment (QE)
 
 - **Aligned Query Expansion: Efficient Query Expansion for Information Retrieval through LLM Alignment** — Yang, Adam, 2025 | arXiv preprint arXiv:2507.11042. [[Paper](https://doi.org/10.48550/arXiv.2507.11042)]
+- **ExpandR: Teaching Dense Retrievers Beyond Queries with LLM Guidance** — Yao, Sijia, 2025 | Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing. [[Paper](https://doi.org/10.18653/v1/2025.emnlp-main.963)] [[Code](https://github.com/NEUIR/ExpandR)]
 - **RADCoT: Retrieval-augmented distillation to specialization models for generating chain-of-thoughts in query expansion** — Lee, Sung-Min, 2024 | Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024). [[Paper](https://aclanthology.org/2024.lrec-main.1182/)] [[Code](https://github.com/ZIZUN/RADCoT)]
 
 ### KG-Augmented QE
